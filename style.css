@@ -21,3 +21,19 @@ h1{
 #box1{
     float: none;
 }
+
+.navbar button{
+    margin: 2px;
+    padding-block: 4px;
+}
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: rgb(195, 193, 193);
+    size
+}
