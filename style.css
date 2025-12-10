@@ -8,3 +8,9 @@ align-items: center;
     box-shadow: 3px 3px 5px green;
     background-color: rgb(11, 245, 11);
 }
+
+#search-button button:hover{
+    background-color: rgb(238, 24, 24);
+    size: 5px;
+    
+}
